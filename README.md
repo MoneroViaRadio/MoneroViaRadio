@@ -49,6 +49,9 @@ Tether(USDT):
 
 ![Tether(USDT)](https://github.com/user-attachments/assets/c57a179e-0a52-4deb-b368-a40dca60d741)
 
+----------------------------------------
+*** Monero Privacy Cryptocurrency via HF Radio Bands ***
 
+This is an idea for post-apocalyps: privacy cryptocurrency. that uses HF radio bands to make a Monero cryptocurrency network. There are already some radio networks on the HF band, such as Wisper, but to get a monero network over the HF radio spectrum, we need to have more frequency channels and bandwidth and more radios around the world that join this network. Having a privacy cryptocurrency over HF bands that is not dependent on the internet will be wild. No One can't control or track it. There are some great HF radio digital modes that could be used for this case, such as FSQ (ability to send text, files, and images), PSK, RTTY, etc. Everybody with a QRP rig and a small laptop can join this network. Monero is the best privacy cryptocurrency for sure. Let's have fun. I love you guys and girls.
 
 
